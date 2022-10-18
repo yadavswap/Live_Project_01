@@ -1,0 +1,63 @@
+li {
+  display: inline;
+  padding-left: 50px;
+}
+.star {
+  margin-bottom: 10px;
+}
+.navbar-container{
+  position: relative;
+left: 70px;
+}
+.list{
+  text-align: center;
+  font-size: large;
+
+}
+.search-icon{
+  position: absolute;
+  left: 1100px;
+  top: 70px;
+ }
+ .nav-button{
+  position: absolute;
+  left: 1130px;
+  top: 70px;
+ }
+ .square{
+  position: absolute;
+  left: 150px;
+  top: 400px;
+}
+.hero{
+display: flex;
+  position: absolute;
+  width: 550px;
+  height: 550px;
+}
+h1{
+  position: absolute;
+  left: 800px;
+  top: 250px;
+  font-family: 'Courier New', Courier, monospace;
+font-size: 350%;
+}
+p{
+  position: absolute;
+  width: 450px;
+  height: 300px;
+  top: 300px;
+}
+.button-email{
+  position: absolute;
+  left: 780px;
+  top: 410px;
+  border-radius: 80px;
+  height: 30px;
+  width: 110px;
+}
+.button-join{
+
+}
+
+  
